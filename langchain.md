@@ -32,5 +32,5 @@ Langchain permite usar información nueva para conectarla a un llm y obtener res
 
 Sí hablamos de modelos de chat, tiene integrados 6: 2 de OpenAI, Jina, Anthropic, Azure, PaLM (de Google), VertexAI y MLflow, pero también tiene integración con más de 50 modelos LLM's.
 
-Langchain nos permite cargar modelos con las mismas lineas
+Langchain nos permite cargar modelos con las mismas lineas.
 
