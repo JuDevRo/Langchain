@@ -41,3 +41,11 @@ Hay dos tipos de cadenas:
 Utility: Son cadenas que ya tienen un proposito muy especifico (Generar resumenes a partir de texto, responder preguntas)
 Foundational: Estas están creadas a partir de cadenas fundacionales. (LLM, Transdormation)
 
+ChromaDB BD vectorial
+
+Proceso
+    Cadena que purga el texto, quita emojis y url's
+    LLM con contexto anterior + contexto nuevo para LLM
+    Chain secuencial une las chains para juntar todo en un solo proceso
+
+
