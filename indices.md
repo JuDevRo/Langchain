@@ -15,3 +15,10 @@ Cargadores de Documentos (Document Loaders). Los cuales proveen de integraciones
 Transformadores de Documentos (Document Transformers). Los cuales proveen de interfaces para obtener partes relevantes de los documentos.
 Incrustadores de Textos (Text Embedding). Los cuales capturan la semántica de los texto en los documentos, permitiendo una via rápida y eficiente de consulta.
 Almacenamiento Vectorial (Vector Stores). Siendo almacenamientos vectoriales donde se puede contener contextos
+
+
+
+
+
+Imaginemos un libro con indices así funciona langchain
+
