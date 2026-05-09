@@ -34,3 +34,10 @@ Sí hablamos de modelos de chat, tiene integrados 6: 2 de OpenAI, Jina, Anthropi
 
 Langchain nos permite cargar modelos con las mismas lineas.
 
+Una cadena conjunta información en un proceso que responde a una pregunta. Ejemplificando: se puede tener al inicio de la cadena un proceso de limpieza de datos y en la segunda parte de la cadena se podría recibir un promt e información del usuario para responder una pregunta.
+
+Hay dos tipos de cadenas:
+
+Utility: Son cadenas que ya tienen un proposito muy especifico (Generar resumenes a partir de texto, responder preguntas)
+Foundational: Estas están creadas a partir de cadenas fundacionales. (LLM, Transdormation)
+
